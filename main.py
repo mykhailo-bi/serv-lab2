@@ -163,3 +163,5 @@ print(user1.cart)
 print(user1.total_cart_price())
 print(user2.cart)
 print(user2.total_cart_price())
+
+print(camera.__id)
